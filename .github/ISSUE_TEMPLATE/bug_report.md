@@ -1,11 +1,3 @@
----
-name: "Reporte de bug"
-about: "Usa esta plantilla para reportar errores en el proyecto"
-title: "[BUG] "
-labels: bug
-assignees: ""
----
-
 ## 🧩 Descripción del problema
 Explica brevemente qué sucede o qué se necesita mejorar.
 Ejemplo: “El botón de guardar no responde al hacer clic.”
